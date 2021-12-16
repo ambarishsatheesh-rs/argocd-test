@@ -7,7 +7,7 @@ spec:
   project: default
 
   source: 
-    repoUrl:
+    repoURL: https://github.com/ambarishsatheesh-rs/argocd-test.git
     targetRevision: HEAD
     path: podinfo
   destination:
